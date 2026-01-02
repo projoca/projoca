@@ -6,22 +6,8 @@
 - 🎓 **Bacharel em Ciência da Computação** (UNINORTE - 2022)
 - ⚡ **25 anos de experiência** em TI e suporte técnico
 - 🔄 Em transição para desenvolvimento de software
-- 🛠️ Conhecimento prático em hardware e **sistemas embarcados**
+- 🛠️ Conhecimento prático em hardware
 - 📚 **Constante aprendizado** e prática diária
-
----
-
-### 📂 **Meus Projetos**
-
-#### 🔹 **Projetos de Estudo**
-- [Algoritmos em Java](link-para-repositorio) - **Exercícios de lógica de programação**
-- [Estruturas de Dados](link-para-repositorio) - **Implementações práticas**
-- [Banco de Dados SQL](link-para-repositorio) - **Modelagem e consultas aplicadas**
-
-#### 🔹 **Projetos Acadêmicos**
-- [Projetos da Graduação](link-para-repositorio) - Trabalhos desenvolvidos durante a faculdade
-
----
 
 ### 📊 **Estatísticas do GitHub**
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=projoca&layout=compact&theme=radical)
